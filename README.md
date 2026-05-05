@@ -1,4 +1,4 @@
-# Hi, I'm Indrajeet Yaduvanshi 👋
+# Hi, I'm Indrajeet Yadav 👋
 ### Data Analyst | Excel • SQL • Power BI • Python
 
 > *"Turning raw data into decisions that matter."*
