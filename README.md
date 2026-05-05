@@ -38,17 +38,10 @@
 
 ---
 
-### 🐍 [Python Data Analytics](https://github.com/codix41-bot/Python-data-analytics)
+### 🐍 [Netflix-Data-Analysis](https://github.com/codix41-bot/Netflix-Data-Analysis)
 > Data cleaning, manipulation & scraping using Python
 
 - **Tech:** Python, Pandas, NumPy, BeautifulSoup
-
----
-
-### 🤖 [Excel Automation Hub](https://github.com/codix41-bot/Excel-Hub-Automation)
-> Excel automation projects for business reporting
-
-- **Tech:** Advanced Excel, Macros, VBA
 
 ---
 
