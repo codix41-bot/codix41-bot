@@ -47,7 +47,7 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=codix41-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Profile Views](https://komarev.com/ghpvc/?username=codix41-bot&color=red&style=flat-square)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codix41-bot&layout=compact&theme=tokyonight&hide_border=true)
 
