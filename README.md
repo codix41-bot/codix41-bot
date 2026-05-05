@@ -49,7 +49,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codix41-bot&color=red&style=flat-square)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codix41-bot&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codix41-bot&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codix41-bot&theme=tokyonight&hide_border=true)
 
