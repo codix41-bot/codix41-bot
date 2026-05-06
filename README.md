@@ -62,7 +62,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codix41-bot&color=red&style=flat-square)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codix41-bot&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codix41-bot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codix41-bot&theme=tokyonight&hide_border=true)
 
