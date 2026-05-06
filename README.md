@@ -28,6 +28,17 @@
 
 ## 🏆 Featured Projects
 
+### 📊 [HR Attrition Dashboard](https://github.com/codix41-bot/hr-attrition-dashboard)
+> Power BI Dashboard — Employee attrition analysis across departments, roles & salary bands
+
+- Analyzed **1,470 employee records** with **16.12% attrition rate** identified
+- Uncovered key drivers — R&D dept (133 exits), 0–2 year tenure group & 0–5K salary band
+- Built **dynamic slicers** for Department, Job Role, Gender & Education filters
+- Visualized attrition across **7 dimensions** — age, income, tenure, gender, education & role
+- **Tech:** Power BI, DAX, Power Query, CSV
+
+---
+
 ### 📊 [Superstore Sales & Profit Dashboard](https://github.com/codix41-bot/Superstore-PowerBI-Dashboard)
 > Power BI Dashboard — Sales analysis across 4 years of US retail data
 
@@ -38,9 +49,11 @@
 
 ---
 
-### 🐍 [Netflix-Data-Analysis](https://github.com/codix41-bot/Netflix-Data-Analysis)
+### 🐍 [Netflix Data Analysis](https://github.com/codix41-bot/Netflix-Data-Analysis)
 > Data cleaning, manipulation & scraping using Python
 
+- Cleaned and analyzed Netflix catalog data using **Pandas & NumPy**
+- Scraped supplementary data using **BeautifulSoup**
 - **Tech:** Python, Pandas, NumPy, BeautifulSoup
 
 ---
@@ -48,6 +61,12 @@
 ## 📈 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codix41-bot&color=red&style=flat-square)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codix41-bot&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codix41-bot&theme=tokyonight&hide_border=true)
+
+---
 
 ## 💻 Languages & Tools
 
@@ -66,7 +85,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codix41-bot&theme=tokyonight&hide_border=true)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
@@ -89,9 +108,15 @@
 
 ---
 
+<div align="center">
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+⭐ *Profile views tracked • Open to collaborations • Always learning*
+
+</div>
